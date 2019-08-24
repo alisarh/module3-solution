@@ -1,0 +1,23 @@
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .25;
+}
+main{
+	height:1000px;
+}
+.col-md-12{
+	background:#aaa;
+}
+@media screen and (max-width: 768px) {
+  .col-sm-10 {
+		margin-left:12%
+	}
+
+}
